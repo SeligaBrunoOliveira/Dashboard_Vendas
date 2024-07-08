@@ -221,4 +221,5 @@ O gráfico apresenta a distribuição do valor total das vendas por produto, div
 
 Autor
 Bruno Nascimento Oliveira
+
 E-mail: bruno.barca07@yahoo.com.br
